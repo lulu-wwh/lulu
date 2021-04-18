@@ -1,0 +1,9 @@
+*{margin: 0;padding: 0;}
+a{text-decoration: none;}
+li{list-style: none;}
+.fl{float: left;}
+.fr{float: right;}
+.mt{margin-top: 20px;}
+.ml{margin-left: 20px;}
+.mr{margin-right: 20px;}
+.mb{margin-bottom: 20px;}
